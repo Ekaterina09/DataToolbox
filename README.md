@@ -1,2 +1,2 @@
-# DataToolbox
+# datasciencecoursera
 Johns Hopkins University, Coursera Online course
